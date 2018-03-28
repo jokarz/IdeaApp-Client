@@ -1,0 +1,47 @@
+.hide{
+    display: none!important;
+}
+
+.btmSpacing{
+    margin-bottom: 15px;
+}
+
+.posLeft{
+    position: absolute;
+    left: 1rem;
+}
+
+.customJumbotron{
+    padding: 2rem 2rem 1rem!important;
+    border-radius: 0;
+}
+
+.line{
+    margin-bottom: 1rem;
+}
+
+.reject{
+    background-color: #dc3545!important;
+    color: #ffffff!important;
+}
+
+.pending{
+    background-color: #545b62!important;
+    color: #ffffff!important;
+}
+
+.accept{
+    background-color: #28A745!important;
+    color: #ffffff!important;
+}
+
+.linkInheritStyle:hover{
+    color: inherit!important;
+}
+.linkInheritStyle {
+    color: inherit!important;
+}
+
+.btmContainer{
+    margin-bottom: 2rem;
+}
